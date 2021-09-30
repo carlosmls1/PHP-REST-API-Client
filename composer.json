@@ -1,9 +1,8 @@
 {
-  "name": "avangate/avangate-php-rest-api-client",
+  "name": "carlosmls1/avangate-php-rest-api-client",
   "license": "MIT",
   "require": {
-    "php": "^5.6",
-    "guzzlehttp/guzzle": "6.*"
+    "guzzlehttp/guzzle": "^7.0.1"
   },
   "autoload": {
     "psr-4": {
